@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2.ina3nbouhal3mla",
+  "version": "1.0.2",
   "firmware_url": "https://github.com/VOTRE_NOM_GITHUB/ESP8266_OTA/releases/download/v1.0.0/firmware.bin",
   "sha256": "a1b2c3d4e5f67890123456789abcdef0123456789abcdef0123456789abcdef",
   "build_date": "2024-12-08",
